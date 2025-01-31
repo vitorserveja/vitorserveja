@@ -13,7 +13,7 @@
   💻 Workstation: Desktop Windows, Android (Moto G7 Plus, Pixel Experience), iPhone 6s 64GB.
 </p>
 
-<p align="left">
+<p align="left"><h5>
   💻 Configuração:<p>
   Placa Mãe: Kingster H81 1150 DDR3<p>
   Processador: Intel Core i5-4590 3.70GHz<p>
@@ -31,7 +31,7 @@
   Mouse: Marvo Z Fit Pro G1W RGB Wireless 19000DPI<p>
   Volante: PXN V9 (900° + H-Shifter)<p>
 </p>
-
+</h5>
 <p align="left">
   📨 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
