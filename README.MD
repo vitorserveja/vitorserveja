@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Oi, Bem vindo ao meu perfil, sou Vitor, e de vez enquanto desenvolvo scripts de automação de serviços.
 </p>
 
 <p align="left">
@@ -14,7 +13,7 @@
 </p>
 
 <p align="left"><h5>
-  💻 Configuração:<p>
+  💻 Configuração:<p><p>
   Placa Mãe: Kingster H81 1150 DDR3<p>
   Processador: Intel Core i5-4590 3.70GHz<p>
   Ram: 16GB Dual-Channel Kingston DDR3 1600MHz<p>
