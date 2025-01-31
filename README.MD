@@ -14,6 +14,25 @@
 </p>
 
 <p align="left">
+  💻 Configuração:<p>
+  Placa Mãe: Kingster H81 1150 DDR3<p>
+  Processador: Intel Core i5-4590 3.70GHz<p>
+  Ram: 16GB Dual-Channel Kingston DDR3 1600MHz<p>
+  Armazenamento: 120GB SSD Netac, 1TB Seagate HDD, 500GB WD HDD<p>
+  Placa de video: Mancer RX550 4GB OC<p>
+  Gabinete: Aigo Q1718-BK Mini-Tower<p>
+  Fonte: Knup KP-522 500w<p>
+  Mini PCI: Wlan Interface KP-T118<p>
+  Bluetooth: TP-Link UB5A
+  Monitor: Bluecase 19' 75hz<p>
+  Headset: Givenefive P662 BT<p>
+  Microfone: ME6S-USB<p>
+  Teclado OEXGAME Mecanico (Switch Vermelho)<p>
+  Mouse: Marvo Z Fit Pro G1W RGB Wireless 19000DPI<p>
+  Volante: PXN V9 (900° + H-Shifter)<p>
+</p>
+
+<p align="left">
   📨 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
