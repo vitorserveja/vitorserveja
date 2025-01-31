@@ -18,6 +18,11 @@
 </p>
 
 <p align="left">
+<a href="mailto:exemplo@dominio.com?subject=Assunto%20do%20E-mail&body=Olá,%0A%0AEste%20é%20um%20exemplo%20de%20e-mail.%0A%0AAtenciosamente,%0ASeu%20Nome">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaovitordc019@gmail.com" alt="Gmail"/></a>
+</a>
+
+<p align="left">
   <a href="gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaovitordc019@gmail.com" alt="Gmail"/></a>
   <a href="https://www.instagram.com/joao.creator/" title="Instagram">
