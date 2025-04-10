@@ -14,6 +14,7 @@
   PSU: EVGA 400W<p>
 </p>
 </h5>
+<p>
 <p align="left">
   📨 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
