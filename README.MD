@@ -6,7 +6,7 @@
 
 <p align="left"><h5>
   💻 Configuração:<p><p>
-  OS: macOS BigSur (SMBIOS; macmini8,1)
+  OS: Linux Mint
   Mobo: Kingster H81<p>
   CPU: Intel Core i5-4590<p>
   Ram: 16GB DDR3 1600MHz<p>
